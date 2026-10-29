@@ -236,4 +236,4 @@ This repository serves as the official landing page for Tonido. The software is 
 **Get the most recent version of Tonido today!**
 
 ---
-**Last updated:** 2026-10-29 16:43:21 UTC
+**Last updated:** 2026-10-29 21:37:55 UTC
